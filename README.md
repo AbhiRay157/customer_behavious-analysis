@@ -130,7 +130,3 @@ It demonstrates practical skills in **data engineering, analytics, and visualiza
 
 ---
 
-## 👩‍💻 Developed By
-**Shradha Pramod Pol**  
-💼 [LinkedIn](https://www.linkedin.com/in/shradhapolofficial)  
-📂 [GitHub](https://github.com/shradha-pol)
